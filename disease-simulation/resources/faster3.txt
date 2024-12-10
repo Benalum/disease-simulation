@@ -1,0 +1,3 @@
+randomgrid 15 10 80
+incubation 1
+sickness 1

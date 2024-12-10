@@ -1,0 +1,6 @@
+grid 20 25
+initialsick 2
+exposuredistance 20
+incubation 1
+sickness 1
+recover 0.99
